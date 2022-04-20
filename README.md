@@ -20,6 +20,6 @@ The project is almost ready but it has some bugs left like while wearing spectac
 this system does not work when we are far.
 But when we come closer to the camera, the system detects eyes with the glasses on.
 
-And we will solve this issue and make the system almost perfect before the next presentation.
+And we will solve this issue and make the system almost perfect in coming days.
 
 
